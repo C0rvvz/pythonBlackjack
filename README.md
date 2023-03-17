@@ -1,3 +1,3 @@
-# UML & Archivo
+# UML & README
 
-![UML.png](..%2F..%2FDownloads%2FUML.png)[Requisitos Blackjack (1) (1).docx](..%2F..%2FDownloads%2FRequisitos%20Blackjack%20%281%29%20%281%29.docx)
+https://docs.google.com/document/d/1xNIOxOrdpCKurseQLBz928CsLtyBrQ_D/edit?usp=share_link&ouid=108655781674238835721&rtpof=true&sd=true
